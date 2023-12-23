@@ -6,3 +6,14 @@ This program has 4 main functions:
 2. Modify an existing ticket transaction
 3. View all the ticket transactions
 4. Delete an existing ticket transaction
+
+Things that I have learned:
+1. how to use Tkinter, sqlite3 and ImageTk
+2. subfunctioning in a function
+3. destroying the previous, unused windows to keep the screen unclustered
+
+Things to Improve:
+1. struggling to valid the date so that the selected date is not earlier than the current date
+2. wish that the program looked nicer
+3. feel like there was a lot of repetition in the code
+4. struggle to add video to the code
